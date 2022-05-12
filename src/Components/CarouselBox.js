@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import Carousel from "react-bootstrap/Carousel";
-import img1 from '../Components/logo1.jpg';
-import img2 from '../assets/page-1.png';
+import img1 from '../Components/home1.png';
+import img2 from '../Components/home2.png';
 
 
 class CarouselBox extends Component {

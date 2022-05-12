@@ -36,8 +36,8 @@ class Header extends Component {
                             <Nav.Link href="/blog"> Blog </Nav.Link>
                         </Nav>
                         <Nav className="mx-2">
-                            <Button variant="success"  className="d-inline me-2" >Log In</Button>
-                            <Button variant="success" className="d-inline me-2" >Sign out</Button>
+                            <Button variant="outline-success"  className="d-inline me-2" >Log In</Button>
+                            <Button variant="outline-success" className="d-inline me-2" >Sign out</Button>
                         </Nav>
                     </Navbar.Collapse>
             </Navbar>
